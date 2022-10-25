@@ -16,6 +16,7 @@
     "type": "git",
     "url": "git@github.com:ember-codemods/ember-cli-code-coverage-setup-codemod.git"
   },
+  "license": "MIT",
   "dependencies": {
     "codemod-cli": "^3.1.2"
   },
