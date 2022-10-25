@@ -1,4 +1,8 @@
 
+## v1.0.1 (2022-10-25)
+add license in package.json
+
+
 ## v1.0.0 (2022-10-25)
 
 #### :rocket: Enhancement
