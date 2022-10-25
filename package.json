@@ -12,6 +12,10 @@
   "keywords": [
     "codemod-cli"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ember-codemods/ember-cli-code-coverage-setup-codemod.git"
+  },
   "dependencies": {
     "codemod-cli": "^3.1.2"
   },
